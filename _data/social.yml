@@ -1,10 +1,30 @@
+# - sitename: 手机号
+#   name: 15171230697
+#   url:
+
+- sitename: QQ
+  name: 805962304
+  url:
+
+- sitename: 邮箱
+  name: 805962304@qq.com
+  url:
+
 - sitename: GitHub
   name: yingsw
   url: https://github.com/yingsw79
 
-# - sitename: 博客
-#   name: 码志
-#   url: http://mazhuang.org
+# - sitename: 掘金
+#   name: mzlogin
+#   url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
+
+# - sitename: LinkedIn
+#   name: mazhuang
+#   url: https://www.linkedin.com/in/mazhuang
+
+- sitename: 博客
+  name: yingsw的个人博客
+  url: https://yingsw79.github.io
 
 # - sitename: 微博
 #   name: mzlogin
