@@ -10,9 +10,9 @@
   name: 805962304@qq.com
   url:
 
-- sitename: GitHub
-  name: yingsw
-  url: https://github.com/yingsw79
+# - sitename: GitHub
+#   name: yingsw
+#   url: https://github.com/yingsw79
 
 # - sitename: 掘金
 #   name: mzlogin
@@ -22,9 +22,9 @@
 #   name: mazhuang
 #   url: https://www.linkedin.com/in/mazhuang
 
-- sitename: 博客
-  name: yingsw的个人博客
-  url: https://yingsw79.github.io
+# - sitename: 博客
+#   name: yingsw的个人博客
+#   url: https://yingsw79.github.io
 
 # - sitename: 微博
 #   name: mzlogin

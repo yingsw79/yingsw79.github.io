@@ -1,10 +1,10 @@
-- name: Keywords
-  keywords:
-      - C++
-      - Algorithm
-      - Python
-      - Java
-      - Go
+# - name: Skill Keywords
+#   keywords:
+#       - C++
+#       - Algorithm
+#       - Python
+#       - Java
+#       - Go
 
 # - name: Mobile Developer Keywords
 #   keywords:

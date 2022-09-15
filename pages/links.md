@@ -8,7 +8,7 @@ menu: 链接
 permalink: /links/
 ---
 
-> God made relatives. Thank God we can choose our friends.
+<!-- > God made relatives. Thank God we can choose our friends.
 
 <ul>
 {% for link in site.data.links %}
@@ -16,7 +16,7 @@ permalink: /links/
   <li><a href="{{ link.url }}" target="_blank">{{ link.name}}</a></li>
   {% endif %}
 {% endfor %}
-</ul>
+</ul> -->
 
 > 友情链接
 

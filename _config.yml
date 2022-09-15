@@ -4,7 +4,7 @@
 baseurl:
 url: https://yingsw79.github.io
 date_format: "ordinal"
-title: 个人博客
+title: blog
 subtitle: "yingsw的个人博客"
 description: "yingsw的个人博客"
 keywords: 个人博客, yingsw
@@ -56,7 +56,7 @@ highlight_theme: github
 # ---------------- #
 author: yingsw
 organization: WHUT
-organization_url: 
+# organization_url: 
 github_username: yingsw79
 location: Wuhan, China
 email: 805962304@qq.com
@@ -124,38 +124,38 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-# # ---------------- #
-# #      Comments    #
-# # ---------------- #
-# # support provider: disqus, gitment, gitalk, utterances, beaudar
-# comments_provider: gitalk
-# # !!!重要!!! 请修改下面这些信息为你自己申请的
-# # !!!Important!!! Please modify infos below to yours
-# # disqus 配置参考：https://disqus.com
-# # disqus:
-# #     username: 
-# # gitment 配置参考：https://imsun.net/posts/gitment-introduction/
-# # gitment:
-# #     owner: mzlogin
-# #     repo: blog-comments
-# #     oauth:
-# #         client_id: d2e1cbbd298958076462
-# #         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
-# # gitalk 配置参考：https://github.com/gitalk/gitalk#install
-# gitalk:
-#     owner: YuxiangtianT
-#     repo: YuxiangtianT.github.io
-#     clientID: 04daf7c9a13454b7ec04
-#     clientSecret: c486f6164bb4f3afc84263ab3aef94f76d4d5ece
-#     admin: 
-# # utterances 配置参考：https://utteranc.es/
-# # utterances:
-# #     repo: mzlogin/blog-comments
-# # beaudar 配置参考：https://beaudar.lipk.org/
-# # beaudar:
-# #     repo: mzlogin/blog-comments
-# # 在使用其它评论组件时可点击显示 Disqus
-# lazy_load_disqus : false
+# ---------------- #
+#      Comments    #
+# ---------------- #
+# support provider: disqus, gitment, gitalk, utterances, beaudar
+comments_provider: gitalk
+# !!!重要!!! 请修改下面这些信息为你自己申请的
+# !!!Important!!! Please modify infos below to yours
+# disqus 配置参考：https://disqus.com
+# disqus:
+#     username: 
+# gitment 配置参考：https://imsun.net/posts/gitment-introduction/
+# gitment:
+#     owner: mzlogin
+#     repo: blog-comments
+#     oauth:
+#         client_id: d2e1cbbd298958076462
+#         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+# gitalk 配置参考：https://github.com/gitalk/gitalk#install
+gitalk:
+    owner: yingsw79
+    repo: yingsw79.github.io
+    clientID: 61ef9a069370869b781c
+    clientSecret: af3cf09b357bd2ed69e283eaf8670ecdeda7a3f1
+    admin: 
+# utterances 配置参考：https://utteranc.es/
+# utterances:
+#     repo: mzlogin/blog-comments
+# beaudar 配置参考：https://beaudar.lipk.org/
+# beaudar:
+#     repo: mzlogin/blog-comments
+# 在使用其它评论组件时可点击显示 Disqus
+lazy_load_disqus : false
 
 # ---------------- #
 #      Search      #
